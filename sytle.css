@@ -1,0 +1,17 @@
+.footer
+{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.profile{
+    hanging-punctuation: none;
+    font-size: 20px;
+    color: white;
+    height: 900px;
+    width: 1000px;
+    flex: auto;
+    border: 990px;
+    text-align: center;
+    padding-left: 450px;
+}
